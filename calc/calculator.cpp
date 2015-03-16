@@ -7,6 +7,7 @@
 Calculator::Calculator()
 {
 	setFixedSize(400,300);
+	//QLabel label("HelloWorld");
 	m_resultLabel = new QLabel("Iotek Calculator!",this);
 	m_resultLabel->setGeometry(10,10,380,80);
 
