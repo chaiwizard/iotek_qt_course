@@ -12,3 +12,17 @@ LIBS+=-lmysqlclient
 # Input
 HEADERS += ListDemo.h
 SOURCES += ListDemo.cpp main.cpp
+
+OTHER_FILES += \
+    images/9.png \
+    images/8.png \
+    images/7.png \
+    images/6.png \
+    images/5.png \
+    images/4.png \
+    images/3.png \
+    images/2.png \
+    images/1.png
+
+RESOURCES += \
+    listdemo.qrc

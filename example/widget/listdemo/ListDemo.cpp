@@ -18,9 +18,11 @@ ListDemoWidget::ListDemoWidget(QWidget *parent)
 
 	QListWidgetItem *item = new QListWidgetItem;
 	item->setText("Zhangsan");
+    item->setIcon(QPixmap(QString(":images/%1.png").arg(1)));
 	m_list->addItem(item);
 
 	item = new QListWidgetItem("Lisi");
+    item->setIcon(QPixmap(QString(":images/%1.png").arg(2)));
 	m_list->addItem(item);
 
 	connect(m_list,SIGNAL(itemClicked(QListWidgetItem*)),
