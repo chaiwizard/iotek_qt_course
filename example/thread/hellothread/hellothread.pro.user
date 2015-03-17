@@ -1,0 +1,317 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">hellothread.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">hellothread</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Debug</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">2</value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">ANDROID_SDK_ROOT=D:\androidsdk\android-sdk-windows</value>
+    <value type="QString">ANT_ROOT=F:\cocos2d\apache-ant-1.9.4\bin</value>
+    <value type="QString">APPDATA=C:\Users\iotek\AppData\Roaming</value>
+    <value type="QString">CLASSPATH=.;C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">COCOS_CONSOLE_ROOT=F:\cocos2d\cocos2d-x-3.0\tools\cocos2d-console\bin</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=IOTEK-PC</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\iotek</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\iotek\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\IOTEK-PC</value>
+    <value type="QString">MOZ_PLUGIN_PATH=C:\Program Files\HUPlayer\</value>
+    <value type="QString">NDK_ROOT=D:\androidsdk\android-ndk-r9d</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Qt\2010.01\mingw\bin;C:\Qt\2010.01\qt\bin;C:\Program Files\Common Files\NetSarang;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\androidsdk\android-sdk-windows\platform-tools;D:\androidsdk\android-sdk-windows\tools;C:\Program Files\TortoiseHg\;C:\Program Files\Microsoft Windows Performance Toolkit\;C:\Program Files\Java\jdk1.6.0_31\bin;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\Atmel\sam-ba_2.12\drv\;C:\Program Files\Atmel\sam-ba_2.12;F:\cocos2d\cocos2d-x-3.0\tools\cocos2d-console\bin;C:\Program Files\ATMEL Corporation\AT91-ISP v1.13\Library\;C:\Program Files\ATMEL Corporation\AT91-ISP v1.13\sam-ba 2.9;C:\cygwin\bin;C:\Program Files\Microsoft SDKs\Windows\v7.1\Bin;C:\Python27</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 37 Stepping 5, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=2505</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=C:/Qt/2010.01/qt</value>
+    <value type="QString">QTJAVA=C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\iotek\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\iotek\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=iotek-PC</value>
+    <value type="QString">USERNAME=iotek</value>
+    <value type="QString">USERPROFILE=C:\Users\iotek</value>
+    <value type="QString">VS100COMNTOOLS=C:\Program Files\Microsoft Visual Studio 10.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+    <value type="QString">XNAGSSHARED=C:\Program Files\Common Files\Microsoft Shared\XNA\</value>
+    <value type="QString">XNAGSV4=C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">F:/workspace/hellothread/hellothread.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">c:/qt/2010.01/qt/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/workspace/hellothread</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">ANDROID_SDK_ROOT=D:\androidsdk\android-sdk-windows</value>
+    <value type="QString">ANT_ROOT=F:\cocos2d\apache-ant-1.9.4\bin</value>
+    <value type="QString">APPDATA=C:\Users\iotek\AppData\Roaming</value>
+    <value type="QString">CLASSPATH=.;C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">COCOS_CONSOLE_ROOT=F:\cocos2d\cocos2d-x-3.0\tools\cocos2d-console\bin</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=IOTEK-PC</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\iotek</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\iotek\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\IOTEK-PC</value>
+    <value type="QString">MOZ_PLUGIN_PATH=C:\Program Files\HUPlayer\</value>
+    <value type="QString">NDK_ROOT=D:\androidsdk\android-ndk-r9d</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Qt\2010.01\mingw\bin;C:\Qt\2010.01\qt\bin;C:\Program Files\Common Files\NetSarang;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\androidsdk\android-sdk-windows\platform-tools;D:\androidsdk\android-sdk-windows\tools;C:\Program Files\TortoiseHg\;C:\Program Files\Microsoft Windows Performance Toolkit\;C:\Program Files\Java\jdk1.6.0_31\bin;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\Atmel\sam-ba_2.12\drv\;C:\Program Files\Atmel\sam-ba_2.12;F:\cocos2d\cocos2d-x-3.0\tools\cocos2d-console\bin;C:\Program Files\ATMEL Corporation\AT91-ISP v1.13\Library\;C:\Program Files\ATMEL Corporation\AT91-ISP v1.13\sam-ba 2.9;C:\cygwin\bin;C:\Program Files\Microsoft SDKs\Windows\v7.1\Bin;C:\Python27</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 37 Stepping 5, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=2505</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=C:/Qt/2010.01/qt</value>
+    <value type="QString">QTJAVA=C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\iotek\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\iotek\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=iotek-PC</value>
+    <value type="QString">USERNAME=iotek</value>
+    <value type="QString">USERPROFILE=C:\Users\iotek</value>
+    <value type="QString">VS100COMNTOOLS=C:\Program Files\Microsoft Visual Studio 10.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+    <value type="QString">XNAGSSHARED=C:\Program Files\Common Files\Microsoft Shared\XNA\</value>
+    <value type="QString">XNAGSV4=C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">C:/Qt/2010.01/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/workspace/hellothread</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">ANDROID_SDK_ROOT=D:\androidsdk\android-sdk-windows</value>
+    <value type="QString">ANT_ROOT=F:\cocos2d\apache-ant-1.9.4\bin</value>
+    <value type="QString">APPDATA=C:\Users\iotek\AppData\Roaming</value>
+    <value type="QString">CLASSPATH=.;C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">COCOS_CONSOLE_ROOT=F:\cocos2d\cocos2d-x-3.0\tools\cocos2d-console\bin</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=IOTEK-PC</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\iotek</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\iotek\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\IOTEK-PC</value>
+    <value type="QString">MOZ_PLUGIN_PATH=C:\Program Files\HUPlayer\</value>
+    <value type="QString">NDK_ROOT=D:\androidsdk\android-ndk-r9d</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Qt\2010.01\mingw\bin;C:\Qt\2010.01\qt\bin;C:\Program Files\Common Files\NetSarang;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\androidsdk\android-sdk-windows\platform-tools;D:\androidsdk\android-sdk-windows\tools;C:\Program Files\TortoiseHg\;C:\Program Files\Microsoft Windows Performance Toolkit\;C:\Program Files\Java\jdk1.6.0_31\bin;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\Atmel\sam-ba_2.12\drv\;C:\Program Files\Atmel\sam-ba_2.12;F:\cocos2d\cocos2d-x-3.0\tools\cocos2d-console\bin;C:\Program Files\ATMEL Corporation\AT91-ISP v1.13\Library\;C:\Program Files\ATMEL Corporation\AT91-ISP v1.13\sam-ba 2.9;C:\cygwin\bin;C:\Program Files\Microsoft SDKs\Windows\v7.1\Bin;C:\Python27</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 37 Stepping 5, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=2505</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=C:/Qt/2010.01/qt</value>
+    <value type="QString">QTJAVA=C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\iotek\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\iotek\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=iotek-PC</value>
+    <value type="QString">USERNAME=iotek</value>
+    <value type="QString">USERPROFILE=C:\Users\iotek</value>
+    <value type="QString">VS100COMNTOOLS=C:\Program Files\Microsoft Visual Studio 10.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+    <value type="QString">XNAGSSHARED=C:\Program Files\Common Files\Microsoft Shared\XNA\</value>
+    <value type="QString">XNAGSV4=C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">C:/Qt/2010.01/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">F:/workspace/hellothread</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
