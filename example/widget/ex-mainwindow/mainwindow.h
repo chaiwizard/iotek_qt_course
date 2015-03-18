@@ -10,7 +10,11 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
-#include <QtGui>
+#include <QMainWindow>
+
+class QMenu;
+class QAction;
+class QToolBar;
 
 class MainWindow : public QMainWindow
 {

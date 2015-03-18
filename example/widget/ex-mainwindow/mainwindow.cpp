@@ -9,6 +9,17 @@
 
 #include "mainwindow.h"
 
+#include <QApplication>
+#include <QMenu>
+#include <QToolBar>
+#include <QAction>
+#include <QDebug>
+#include <QLabel>
+#include <QListWidget>
+#include <QDockWidget>
+#include <QMenuBar>
+#include <QStatusBar>
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
 {
@@ -123,7 +134,7 @@ void MainWindow::setupDockWindow()
     widget->addItem("Dock Content");
     dock->setWidget(widget);
 
-    addDockWidget(Qt::LeftDockWidgetArea, dock);
+    addDockWidget(Qt::RightDockWidgetArea, dock);
 }
 
 void MainWindow::onFileNew()
